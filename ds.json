@@ -1,6 +1,6 @@
 {
 //0724jar驱动
-"spider":"http://刚刚.live/jar/",
+"spider":"https://yun.weetai.cn/miaotv/spider.jar",
 //图片
 "wallpaper": "https://api.yimian.xyz/img?type=wallpaper",
 //直播
