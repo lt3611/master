@@ -11,12 +11,6 @@
 //1、首页
 {"key": "Kunyu77","name": "星云影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-//2、学习频道,bili引擎+0723jar驱动+配置文件
-{"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dabbing2019/TVBox/raw/branch/root/YY/XX/xx.json","jar":"https://gitea.com/dabbing2019/TVBox/raw/branch/root/jar/0723.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
-{"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dabbing2019/TVBox/raw/branch/root/YY/XX/cz.json","jar":"https://gitea.com/dabbing2019/TVBox/raw/branch/root/jar/0723.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
-{"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dabbing2019/TVBox/raw/branch/root/YY/XX/gz.json","jar":"https://gitea.com/dabbing2019/TVBox/raw/branch/root/jar/0723.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
-
-
 //3、jar内置
 {"key":"酷猫","name":"酷猫视频","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
