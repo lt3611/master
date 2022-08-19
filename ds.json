@@ -9,7 +9,7 @@
 "sites":[
 
 //1、首页
-{"key": "Kunyu77","name": "星云影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kunyu77","name": "影视七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Kuaikan","name": "快看视频","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "厂长影视","name": "厂长资源","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小苹果","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -17,6 +17,11 @@
 {"key": "Cokemv","name": "Cokemv","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+//6、bili
+{"key":"csp_BBB","name":"哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
+{"key": "戏曲","name": "戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bliyc","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 0,"quickSearch": 1,"filterable": 1},
 
 //4、vod采集
 {"key":"9E03","name":"903影视","type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
@@ -25,13 +30,6 @@
 {"key":"bjgc","name":"八戒官采(SP)","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"ttzy","name":"天堂资源(SP)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_521kj","name":"521看剧(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://521kanju.com/api.php/v1.vod"},
-
-//6、bili
-{"key":"csp_BBB","name":"哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "戏曲","name": "戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bliyc","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 0,"quickSearch": 1,"filterable": 1},
-
 //7、jianying
 {"key":"csp_hbys","name":"简影","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 
