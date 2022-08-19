@@ -22,6 +22,8 @@
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)®神农戴也","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/master/MaooXP/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐟︎斗鱼(XB)®神农戴也","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/master/MaooXB2/斗鱼.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)®神农戴也","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/master/MaooXP/kuqimv.json"},
+{"key":"*523资源","name":"🔞🈲成人资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+
 //3、jar内置
 {"key":"酷猫","name":"酷猫视频","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
