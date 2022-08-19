@@ -16,7 +16,9 @@
 {"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dabbing2019/TVBox/raw/branch/root/YY/XX/xx.json","jar":"https://gitea.com/dabbing2019/TVBox/raw/branch/root/jar/0723.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
 {"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dabbing2019/TVBox/raw/branch/root/YY/XX/cz.json","jar":"https://gitea.com/dabbing2019/TVBox/raw/branch/root/jar/0723.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
 {"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dabbing2019/TVBox/raw/branch/root/YY/XX/gz.json","jar":"https://gitea.com/dabbing2019/TVBox/raw/branch/root/jar/0723.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
-
+//测试
+{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)®神农戴也","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/master/MaooXP/kuqimv.json"},
+{"key":"*523资源","name":"🔞🈲源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 
 //3、jar内置
 {"key":"酷猫","name":"酷猫视频","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
