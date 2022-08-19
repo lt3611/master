@@ -18,8 +18,9 @@
 {"key": "Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //6、bili
+{"key": "教学","name": "幼儿学习","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%95%99%E5%AD%A6.json"},
 {"key":"csp_BBB","name":"哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "戏曲","name": "戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bliyc","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 0,"quickSearch": 1,"filterable": 1},
 
