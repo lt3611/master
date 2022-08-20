@@ -63,11 +63,6 @@
 {"key":"csp_biubiu_森屋新番","name":"森屋新番(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/528/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json?sign=R5qPzfgAWn7re_totmFFzzBUarpbFX1iAkHb7xbaGbQ%3D%3A0"},
 {"key":"csp_biubiu_骚火电影","name":"骚火(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/602/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B10713.json?sign=yZEF5NVt9quZmT_CncWseaSvJ8RVSE4QdXm2x7ynlTg%3D%3A0"},
 {"key":"csp_biubiu_大米星球","name":"⭐大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/488/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%830713.json?sign=YHHfq6hdl1OFBdigkyR-x1AwmY1atNLY3Fc5KOfOp3s%3D%3A0"}
-{"key":"csp_QQ","name":" 🍅腾讯视频","type": 3,"api":"csp_QQ","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%85%BE%E8%AE%AF.txt"},
-{"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%88%B1%E5%A5%87%E8%89%BA.txt"},
-{"key":"csp_MGTV","name":"🍋芒果TV","type":3,"api":"csp_MGTV","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%8A%92%E6%9E%9C.txt"},
-{"key": "Lezhu_spider","name": "乐猪影视",	"api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
-
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
