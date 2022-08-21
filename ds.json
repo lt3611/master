@@ -22,6 +22,12 @@
 {"key": "Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //6、bili
+{"key":"幼儿乐园","name":"📚幼儿乐园（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ftyyy.tk/json/幼儿乐园.json"},
+{"key":"少儿教育","name":"📚少儿教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ftyyy.tk/json/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ftyyy.tk/json/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ftyyy.tk/json/初中课堂.json"},
+{"key":"高中教育","name":"📚高中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ftyyy.tk/json/高中课堂.json"},
+{"key": "学堂","name": "标榜学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/DS/27/raw/branch/main/%E5%AD%A6%E5%A0%82.json"},
 {"key": "教学","name": "幼儿学习","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%95%99%E5%AD%A6.json"},
 {"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bliyc","searchable": 0,"quickSearch": 0,"filterable": 1},
