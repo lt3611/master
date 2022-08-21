@@ -25,6 +25,9 @@ CCTV奥林匹克频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221
 CCTV-17农村农业,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV奥林匹克频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+亚冠,
+咪咕24小时,https://mgsp.live.miguvideo.com/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=7b841c5e91bf22d640b405fc790a52d8&mdspid=&spid=800033&netType=0&sid=5500751211&pid=2028597139&timestamp=20220821073159&Channel_ID=0132_10010001005&ProgramID=654102378&ParentNodeID=-99&assertID=5500751211&client_ip=171.80.191.171&SecurityKey=20220821073159&mvid=5102223687&mcid=500020&mpid=&playurlVersion=WX-A1-5.7.2-RELEASE&userid=973447631&jmhm=7b841c5e91bf22d640b405fc790a52d8&videocodec=h264&bean=mgspwww&mtv_session=dff3fe429095f3364e1b00f48e1b5b3c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4b193cb7e706017088b6cc80abd224be
+
 卫视,#genre#
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
