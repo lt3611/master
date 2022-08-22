@@ -25,34 +25,10 @@
 			"searchable": 1,
 			"quickSearch": 1
 		}, 
-		{
-			"key": "AliPS",
-			"name": "🔍阿狸盘搜(仅搜索)",
-			"type": 3,
-			"api": "csp_AliPanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}, {
-			"key": "zhaozy",
-			"name": "🗂️找资源(仅搜索)",
-			"type": 3,
-			"api": "csp_FindZY",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}, {
-			"key": "push_agent",
-			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
-			"type": 3,
-			"api": "csp_PushAgent",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}
+		{"key":"mtv_pc_小纸条源","name":"🔥小纸条源","type":3,"api":"csp_GitCafe"       ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_阿里盘搜","name":"🔍阿里盘搜","type":3,"api":"csp_AliPanSou"     ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_找资源搜","name":"🔍找资源搜","type":3,"api":"csp_FindZY"        ,"searchable":1,"quickSearch":1,"filterable":1},
+
 	],
 	"parses": [{
 		"name": "解析聚合",
