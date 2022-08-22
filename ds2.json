@@ -19,19 +19,6 @@
 {"key": "小苹果","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Ikan","name": "爱看视频","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Cokemv","name": "Cokemv","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-//8、xb嗅探
-{"key":"csp_biubiu_口袋影院","name":"口袋(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/792/%E5%8F%A3%E8%A2%8B0724.json?sign=BFM2lUiobPWR1m1YCCaPQF7WjdBNVMLaz0cFyiANoPM%3D%3A0"},
-{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/472/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89%200713.json?sign=9kx3JMCnSmxhOkPPKo7FfIRZSig-SFvurzyeqwRG_44%3D%3A0"},
-{"key":"csp_biubiu_剧白白-蓝光","name":"白白蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/472/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89%200713.json?sign=9kx3JMCnSmxhOkPPKo7FfIRZSig-SFvurzyeqwRG_44%3D%3A0"},
-{"key":"csp_biubiu_4K电影网","name":"4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/403/4K%E7%94%B5%E5%BD%B1%E7%BD%910718.json?sign=h7WhVqDL31NDi29S2ndpWSU1j-iBAPHvHAqOiL06Yog%3D%3A0"},
-{"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/486/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B60714.json?sign=lecaDWQeIjl4m2lrSAZQcYVrZXASqVX2BhMXanC7QvI%3D%3A0"},
-{ "key": "天堂", "name": "天堂", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/432/LIBVIO0713.json?sign=jV7Ah-J1_54ZXN4G32RQznBpx4YfHAxugPPQDoPtesc%3D%3A0"},
-{"key":"csp_biubiu_斗鱼","name":"斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/523/%E6%96%97%E9%B1%BC0725.json?sign=9eW2QaaAKqroIbhMCv5IxwkTUlHy39akd-qCQ_vjsPs%3D%3A0"},
-{"key":"csp_xpath_huya","name":"虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/582/%E8%99%8E%E7%89%990725.json?sign=0CMolDx9I1dOl-l6vsrhQRxsx4mSWtGHS8W3cCvo8dw%3D%3A0"},
-{"key":"csp_biubiu_特狗影视","name":"特狗","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/546/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%860713.json?sign=umDfpbY8P3Q6XCTnvoGgEwumHjhqTadoAyrOQRxJ_CQ%3D%3A0"},
 {"key": "555电影","name": "555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/404/555dy%200713.json?sign=b9SziL0Blx-YE0R6ask7ts-RSICedM35sN_VrNOxpDI%3D%3A0"},
 
 //9、盘搜
