@@ -7,7 +7,7 @@
 {"key":"mtv_pc_小纸条源","name":"🔥小纸条源","type":3,"api":"csp_GitCafe"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_阿里盘搜","name":"🔍阿里盘搜","type":3,"api":"csp_AliPanSou"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_找资源搜","name":"🔍找资源搜","type":3,"api":"csp_FindZY"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"push_agent"     ,"name":"🔍推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0},
+{"key":"push_agent"     ,"name":"🔍推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0}
 ]
 //解析接口
 
