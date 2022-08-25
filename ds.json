@@ -5,7 +5,7 @@
 "sites": [
 {"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_小纸条源","name":"🔥小纸条源","type":3,"api":"csp_GitCafe"       ,"searchable":1,"quickSearch":1,"filterable":1},
+{ "key": "天堂", "name": "天堂", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"mtv_pc_阿里盘搜","name":"🔍阿里盘搜","type":3,"api":"csp_AliPanSou"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_找资源搜","name":"🔍找资源搜","type":3,"api":"csp_FindZY"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent"     ,"name":"🔍推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0},
