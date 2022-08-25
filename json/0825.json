@@ -9,7 +9,7 @@
 {"key":"mtv_pc_小纸条源","name":"🔥小纸条源","type":3,"api":"csp_GitCafe"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_阿里盘搜","name":"阿里高清搜索","type":3,"api":"csp_AliPanSou"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_找资源搜","name":"🔍找资源搜","type":3,"api":"csp_FindZY"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"push_agent"     ,"name":"🔍推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0},
+{"key":"push_agent"     ,"name":"资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0},
 {"key":"mtv_zh_刺猬影视","name":"💦刺猬影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"}],
 
 //解析接口
