@@ -31,6 +31,7 @@
 	}],
 	"sites": [ 
 //{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/小纸条.jar"},
+{"key":"csp_Wmkk","name":"💯‍完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/原画.jar"},
 //{"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/原画.jar"},
 //{"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/原画.jar"},
