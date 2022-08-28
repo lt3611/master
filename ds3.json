@@ -6,8 +6,10 @@
 "wallpaper":"https://bing.img.run/rand.php",
 "sites":[
 {"key":"csp_SP360","name":"360〔SP〕","type":3,"api":"csp_SP360","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"t4public","name":"T4公共(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_XBiubiu_斗鱼","name":"斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/ichenczh/tvbox/raw/branch/main/XB/斗鱼.json"},{"key":"csp_xpath_huya","name":"虎牙〔直播〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/ichenczh/tvbox/raw/branch/main/XP/huya.json"}],
+{"key":"csp_Bttoo","name":"两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Wmkk","name":"完美看看〔SP〕","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}
+],
 
 
 "parses":[
