@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
+  "versionCode": "6",
   "versionName": "1.0.6",
-  "downUrl": "https://gitea.com/apkcore/apk_release/raw/branch/main/releaseV1/tvbox_1.0.4.apk",
-  "description": "增加新包，优化爬虫",
-  "md5":"378b66b9110f8f3bc9dd1bafb0cbdb9c"
+  "downUrl": "https://gitea.com/333/3/raw/branch/3/apk/白嫖影视_1.0.5.apk",
+  "description": "优化软件",
+  "md5":"099fe1ea1567134384ca2d4360a041f3"
 }
