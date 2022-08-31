@@ -36,20 +36,8 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/json/%E7%A3%81%E5%8A%9B.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/jar/cili.jar"
     },
-{
-        "api":"csp_Hsck",
-        "ext":"https://www.javsee.men/",
-        "filterable":0,
-        "key":"csp_Hsck",
-        "name":"黄色仓库(爬虫)",
-        "quickSearch":1,
-        "searchable":1,
-        "type":3
-    },
 {"key":"csp_Wmkk","name":"💯‍完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{ "key": "天堂", "name": "天堂", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"快看","name":"快看影院","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"剧荒在线","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"小苹果","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
