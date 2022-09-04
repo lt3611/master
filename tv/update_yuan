@@ -1,0 +1,19 @@
+{
+    "urls": [
+        {
+            "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
+            "name": "BD线路"
+        },
+        {
+            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
+            "name": "家庭FASTGIT线路",
+            "time": "2022-08-26 02:00:00"
+        }
+    ],
+    "vip": [
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "yeshijieC.json"
+        }
+    ]
+}
