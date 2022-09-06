@@ -1,1 +1,26 @@
-https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/tv/tv.json
+{
+    "urls": [
+{
+            "url": "http://rh1ql6ok1.hd-bkt.clouddn.com/56985.json",
+            "name": "一影视"
+        },
+{
+            "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
+            "name": "qq26898"
+        },
+{
+            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
+            "name": "张宏1983"
+        },
+{
+            "url": "http://maoyingshi.cc/可视TV/api.json",
+            "name": "可视TV"
+        }
+    ],
+    "vip": [
+{
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "yeshijieC.json"
+        }
+    ]
+}
