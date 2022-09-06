@@ -15,6 +15,10 @@
 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/tv/tv.json",
             "name": "测试"
+        },
+        {
+            "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+            "name": "不知道"
         }
     ],
     "vip": [
