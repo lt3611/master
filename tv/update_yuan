@@ -13,8 +13,8 @@
             "name": "张宏1983"
         },
 {
-            "url": "http://maoyingshi.cc/可视TV/api.json",
-            "name": "可视TV"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/tv/tv.json",
+            "name": "测试"
         }
     ],
     "vip": [
