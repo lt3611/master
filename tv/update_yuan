@@ -12,19 +12,15 @@
             "url": "https://box.okeybox.top/tv/0xth.json",
             "name": "二影视"
         },
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/tv/tv.json",
-            "name": "测试"
-        },
         {
             "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
             "name": "不知道"
         }
     ],
-    "vip": [
+    "自用": [
 {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-            "name": "影视界"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/tv/tv.json",
+            "name": "测试"
         }
     ]
 }
