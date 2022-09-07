@@ -4,20 +4,16 @@
             "url": "http://rh1ql6ok1.hd-bkt.clouddn.com/56985.json",
             "name": "一影视"
         },
-{
-            "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
-            "name": "qq26898"
-        },
-{
+        {
             "url": "https://box.okeybox.top/tv/0xth.json",
             "name": "二影视"
         },
-        {
-            "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
-            "name": "不知道"
+{
+            "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
+            "name": "qq_26898"
         }
     ],
-    "vip": [
+    "VIP": [
 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/tv/tv.json",
             "name": "测试"
