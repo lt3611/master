@@ -13,8 +13,13 @@
             "name": "qq_26898"
         },        
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/liutao3611/master/main/tv/tv.json",
-            "name": "二影视",
+            "url": "https://gitcode.net/a584217/diy-tvbox/-/raw/master/1.json",
+            "name": "三影视",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitcode.net/a584217/diy-tvbox/-/raw/master/2.json",
+            "name": "四影视",
             "time": "2022-08-26 02:00:00"
         }
     ],
