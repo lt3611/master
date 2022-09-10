@@ -4,20 +4,25 @@
             "url": "http://rh1ql6ok1.hd-bkt.clouddn.com/56985.json",
             "name": "一影视"
         },
+        {
+            "url": "https://gitcode.net/a584217/diy-tvbox/-/raw/master/1.json",
+            "name": "二影视",
+            "time": "2022-08-26 02:00:00"
+        },
             {
             "url": "https://box.okeybox.top/tv/0xth.json",
-            "name": "二影视"
+            "name": "三影视"
         },
             {
             "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
             "name": "qq_26898"
-        },        
+        },  
         {
-            "url": "https://gitcode.net/a584217/diy-tvbox/-/raw/master/1.json",
-            "name": "三影视",
+            "url": "https://s.welsun.win/ttv",
+            "name": "看点",
             "time": "2022-08-26 02:00:00"
         },
-        {
+       {
             "url": "https://gitcode.net/a584217/diy-tvbox/-/raw/master/2.json",
             "name": "四影视",
             "time": "2022-08-26 02:00:00"
